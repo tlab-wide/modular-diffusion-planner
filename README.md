@@ -1,4 +1,4 @@
-<h1 align="center">An Open-Source Modular Benchmark for Diffusion-Based<br>Motion Planning in Closed-Loop Autonomous Driving</h1>
+<h1 align="center">An Open-Source Modular Benchmark for Diffusion-Based Motion Planning in Closed-Loop Autonomous Driving</h1>
 
 <p align="center">
 Yun Li<sup>1</sup>, Simon Thompson<sup>2</sup>, Zifan Zeng<sup>3</sup>, Qunli Zhang<sup>3</sup>, Shiming Liu<sup>3</sup>,<br>
